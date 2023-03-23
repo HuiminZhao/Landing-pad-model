@@ -1,0 +1,2 @@
+- The script compares the experimental gRNA on-target activity with CRISPRon, Rule Set 2 scoring and gene density to further prioritize gRNA for gene integration. 
+- Average GFP/OD is also compared with gene density.
